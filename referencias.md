@@ -18,3 +18,5 @@ Referencias sobre las sondas RIPE Atlas
 - [Sondas públicas en Bolivia](https://atlas.ripe.net/probes/?search=&status=&af=&country=BO)
 - [Mapa de sondas en Bolivia](https://atlas.ripe.net/results/maps/network-coverage/?filter=Bolivia+(bo))
 - [Realizar mediciones con las sondas](https://atlas.ripe.net/about/measurements/)
+
+Para cualquier sugerencia de adición de referencia en estas listas: un tweet a [@RIPE_Atlas_BO](https://twitter.com/RIPE_Atlas_BO), o una *Pull Request* en [GitHub](https://github.com/RipeAtlasBolivia).
