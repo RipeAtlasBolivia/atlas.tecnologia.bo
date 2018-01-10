@@ -7,7 +7,7 @@ categories: ripe, charla, tutorial
 
 Charla el 10/01/2018 19:00 en el auditorium del FNDR en La Paz.
 
-## Proyecto RIPE Atlas
+## Proyecto RIPE Atlas
 
 Instituciones:
 
@@ -54,7 +54,7 @@ En la región, la [cobertura](https://atlas.ripe.net/results/maps/density/) es l
 - ...
 - 1.401 en Alemania
 
-## Participar
+## Participar
 
 Si tengo una sonda, que tengo que hacer:
 
@@ -179,7 +179,7 @@ curl https://atlas.ripe.net/api/v2/measurements/10845278/results/?format=json > 
 ~/dev/ripe-atlas-community-contrib/json2traceroute.py ~/atlas/10845278.json
 ```
 
-Algunas referencias:
+Tutoriales:
 
 - [http://www.bortzmeyer.org/ripe-atlas-api.html](http://www.bortzmeyer.org/ripe-atlas-api.html)
 - [http://www.bortzmeyer.org/traceroute-atlas.html](http://www.bortzmeyer.org/traceroute-atlas.html)
@@ -187,7 +187,7 @@ Algunas referencias:
 - [https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib](https://github.com/RIPE-Atlas-Community/ripe-atlas-community-contrib)
 - [https://atlas.ripe.net/measurements-and-tools/tools/](https://atlas.ripe.net/measurements-and-tools/tools/)
 
-## Referencias
+## Referencias
 
 - Portal general: [https://atlas.ripe.net/](https://atlas.ripe.net/)
 - Documentaciones: [https://atlas.ripe.net/docs/](https://atlas.ripe.net/docs/)
