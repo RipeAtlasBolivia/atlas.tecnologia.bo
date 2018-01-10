@@ -11,9 +11,9 @@ Charla el 10/01/2018 19:00 en el auditorium del FNDR en La Paz.
 
 Instituciones:
 
-- ICANN asigna las direcciones IP, los números autónomos a nivel mundial
-- en Latinoamerica es LACNIC, en Europa es RIPE NCC
-- RIPE Atlas es un proyecto de RIPE NCC
+- [ICANN](https://www.icann.org/) / [IANA](https://www.iana.org/) asignan los dominios, las direcciones IP, los números autónomos a nivel mundial
+- en Latinoamerica es [LACNIC](https://lacnic.net), en Europa es [RIPE NCC](https://ripe.net/)
+- [RIPE Atlas](https://atlas.ripe.net/) es un proyecto de RIPE NCC
 - Otro proyecto relacionado: [https://stat.ripe.net/](https://stat.ripe.net/)
 
 Proyecto RIPE Atlas:
@@ -33,7 +33,8 @@ De las 24 sondas conectadas:
 
 - 10 con Entel - [AS 6568](https://stat.ripe.net/6568)
 - 6 con AXS - [AS 26210](https://stat.ripe.net/26210)
-- 6 con Tigo - [AS 27882](https://stat.ripe.net/27882), 2 de Viva - [AS 28024](https://stat.ripe.net/28024)
+- 6 con Tigo - [AS 27882](https://stat.ripe.net/27882)
+- 2 de Viva - [AS 28024](https://stat.ripe.net/28024)
 
 Las 24 sondas conectadas se encuentran en las [siguientes ciudades](https://atlas.ripe.net/results/maps/network-coverage/?filter=Bolivia+(bo)):
 
