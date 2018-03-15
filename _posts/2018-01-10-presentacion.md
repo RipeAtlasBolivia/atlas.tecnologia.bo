@@ -197,11 +197,11 @@ Tutoriales:
 - Cómo usaron las sondas en otros países: [https://labs.ripe.net/atlas](https://labs.ripe.net/atlas)
 - La comunidad boliviana: [https://atlas.tecnologia.bo/about/](https://atlas.tecnologia.bo/about/)
 
-Sigan [@RIPE_Atlas_BO](https://atlas.tecnologia.bo/https://twitter.com/RIPE_Atlas_BO) en Twitter, y participen del sitio web [atlas.tecnologia.bo](https://atlas.tecnologia.bo/)
+Sigan [@RIPE_Atlas_BO](https://twitter.com/RIPE_Atlas_BO) en Twitter, y participen del sitio web [atlas.tecnologia.bo](https://atlas.tecnologia.bo/)
 
 Algunas cuentas Twitter a seguir:
 
-- [@RIPE_Atlas_BO](https://atlas.tecnologia.bo/https://twitter.com/RIPE_Atlas_BO)
+- [@RIPE_Atlas_BO](https://twitter.com/RIPE_Atlas_BO)
 - [@meileaben](https://twitter.com/meileaben)
 - [@Gourami](http://twitter.com/Gourami/)
 - [https://twitter.com/huguei](https://twitter.com/huguei)
