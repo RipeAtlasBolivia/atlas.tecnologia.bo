@@ -26,7 +26,7 @@ El taller de Stéphane Bortzmeyer se desarrollará de la forma siguiente:
 
 - **Fecha:** sábado 27 de octubre de 2018
 - **Hora:** de 9:00 a 12:00
-- **Lugar:** Hacklab R00tHouse en Miraflores, La Paz. Ver la dirección en [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.50393&mlon=-68.12373#map=19/-16.50393/-68.12373)
+- **Lugar:** Hacklab R00tHouse en Miraflores, La Paz. Ver la ubicación exacta en [OpenStreetMap](https://www.openstreetmap.org/?mlat=-16.50393&mlon=-68.12373#map=19/-16.50393/-68.12373)
 - **Requisito:** traer una laptop (mejor si usa GNU/Linux)
 - **Precio:** ninguno, entrada libre
 - **Cupos:** entrada libre
