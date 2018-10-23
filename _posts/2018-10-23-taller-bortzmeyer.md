@@ -19,7 +19,7 @@ El taller de Stéphane Bortzmeyer se desarrollará de la forma siguiente:
   - ¿qué mediciones se pueden realizar desde las sondas?
   - las herramientas: [blaeu](https://framagit.org/bortzmeyer/blaeu), [web](https://atlas.ripe.net/measurements/), y otras [herramientas oficiales](https://atlas.ripe.net/measurements-and-tools/tools/)
 - taller práctico
-  - entrega de créditos (necesario para lanzar mediciones)
+  - entrega de créditos a los participantes (necesario para lanzar mediciones)
   - realización de mediciones, especificamente dirigidas a entender Internet en Bolivia
 
 ## Fecha, lugar, requisitos
