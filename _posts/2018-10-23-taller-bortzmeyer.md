@@ -7,7 +7,7 @@ categories: ripe bortzmeyer taller
 
 Organizamos el día sábado 27/10/2018 un taller práctico sobre las sondas RIPE Atlas. Contaremos con la presencia de [Stéphane Bortzmeyer](https://labs.ripe.net/Members/stephane_bortzmeyer), especialista de las sondas RIPE Atlas, que nos dará una charla introductoria y ejercicios prácticos para realizar mediciones y dar uso a nuestras sondas de manera a conocer la salud de la Internet boliviana.
 
-![Stéphane Bortzmeyer](/assets/stéphane-bortzmeyer.jpg)
+![Stéphane Bortzmeyer]({{ "/assets/stéphane-bortzmeyer.jpg" | absolute_url }})
 
 ## Contenido del taller práctico
 
