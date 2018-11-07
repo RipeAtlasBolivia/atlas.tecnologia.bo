@@ -7,7 +7,7 @@ categories: sondas ripe atlas bolivia bortzmeyer
 
 El día sábado 27/10/2018, tuvimos la suerte de contar con la presencia de [Stéphane Bortzmeyer](https://bortzmeyer.fr) en un taller que organizamos sobre las [sondas RIPE Atlas](https://atlas.ripe.net) en el [hacklab r00thouse](https://www.hacklab.org.bo/) de La Paz, Bolivia.
 
-- ![Presentación de Stéphane Bortzmeyer en el hacklab r00thouse de La Paz]({{ "/assets/taller-bortzmeyer.jpg" }})
+![Presentación de Stéphane Bortzmeyer en el hacklab r00thouse de La Paz]({{ "/assets/taller-bortzmeyer.jpg" }})
 
 Empezó con una presentación por parte de Stéphane sobre las sondas Atlas, para qué sirven, cómo se pueden usar para lanzar mediciones, etc.
 
